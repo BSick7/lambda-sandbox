@@ -1,0 +1,14 @@
+# IntelliJ
+.idea/
+
+# Golang
+vendor/
+dist/
+
+# Terraform
+.terraform/
+*.tfstate*
+*.tfvars
+envs/
+
+tmp/
